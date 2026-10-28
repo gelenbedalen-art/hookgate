@@ -1,0 +1,20 @@
+{
+  "address": "0x0000000000000000000000000000000000000080",
+  "fee": 3000,
+  "permissions": {
+    "beforeInitialize": false,
+    "afterInitialize": false,
+    "beforeAddLiquidity": false,
+    "afterAddLiquidity": false,
+    "beforeRemoveLiquidity": false,
+    "afterRemoveLiquidity": false,
+    "beforeSwap": true,
+    "afterSwap": false,
+    "beforeDonate": false,
+    "afterDonate": false,
+    "beforeSwapReturnDelta": false,
+    "afterSwapReturnDelta": false,
+    "afterAddLiquidityReturnDelta": false,
+    "afterRemoveLiquidityReturnDelta": false
+  }
+}
